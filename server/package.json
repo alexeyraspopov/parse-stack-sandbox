@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "parse-dashboard": "^1.4.3",
+    "parse-server": "^3.7.2",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0"
+  }
+}
